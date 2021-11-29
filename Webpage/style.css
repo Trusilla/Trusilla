@@ -1,0 +1,16 @@
+h2 {
+	color: pink;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+p {
+  font-family: Arial Narrow, sans-serif;
+}
+
+#formh3 {
+	font-family: Arial Narrow, sans-serif;
+	color: blue;
+}
